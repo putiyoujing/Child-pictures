@@ -17,7 +17,26 @@
 
 ## 🚀 在线体验
 
-访问在线演示：[https://child-pictures.pages.dev](https://child-pictures.pages.dev)
+### 即将上线
+项目正在部署中，敬请期待！
+
+### 本地快速体验
+```bash
+# 克隆项目
+git clone https://github.com/putiyoujing/Child-pictures.git
+cd Child-pictures
+
+# Windows用户 - 双击运行
+start.bat
+
+# 或使用命令行
+node start-server.js
+# 或
+python start-server.py
+
+# 然后访问
+http://localhost:8080
+```
 
 ## 📦 本地运行
 
