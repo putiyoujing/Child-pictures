@@ -57,3 +57,16 @@ simulate-*.js
 # Temporary files
 *.tmp
 *.temp
+
+# Images folder
+/images/
+images/
+
+# Image files in root
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+*.webp
